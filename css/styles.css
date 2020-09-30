@@ -52,7 +52,7 @@ position: relative;
 }
 .copyright{
 margin-bottom: 0;
-color: #EAF6F6;
+color: #FFF;
 font-size: 0.75rem;
 padding-top: 20px;
 }
@@ -121,6 +121,7 @@ position: relative;
   width: 25%;
   float: left;
   margin-right: 30px;
+  margin-left:0px;
 }
 .doodle{
   width: 25%;
@@ -135,7 +136,7 @@ position: relative;
 }
 .top-cloud{
   position: absolute;
-  right:200px;
+  right:250px;
   top:40px;
   height: 100px;
 }
@@ -143,5 +144,5 @@ position: relative;
   position: absolute;
   left: 200px;
   top: 50px;
-  height: 125px;
+  height: 135px;
 }
